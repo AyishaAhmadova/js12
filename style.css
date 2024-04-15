@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+body {
+    background-color: rgb(101, 122, 216);
+}
+
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+th {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.btn {
+    background-color: green;
+    padding: 10px 8px;
+    cursor: pointer;
+    border: none;
+}
+
+
+
+.yenileBtn {
+    color: white;
+    background-color: rgb(140, 197, 79);
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 30px;
+    border: none;
+}
+
+.silBtn {
+    color: rgb(164, 22, 22);
+    background-color: rgb(6, 6, 6);
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+input {
+    padding: 7px;
+}
+
+.saxlaBtn {
+    color: rgb(2, 2, 9);
+    background-color: rgb(225, 165, 12);
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 30px;
+    border: none;
+}
+
+td {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+}
